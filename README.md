@@ -37,10 +37,7 @@ This project is a **Virtual Mouse Interface** that allows users to control their
     ```bash
     cd Virtual_Mouse_Interface_Using_Hand_Gestures
     ```
-3. Install the required libraries:
-    ```bash
-    pip install -r requirements.txt
-    ```
+
 
 ## Usage
 1. **Run the Script**: Start the virtual mouse interface by running:

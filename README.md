@@ -1,6 +1,7 @@
 # Virtual Mouse Interface Using Hand Gestures
 
 
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
@@ -59,9 +60,4 @@ This project is a **Virtual Mouse Interface** that allows users to control their
 - **Voice Integration**: Combine voice commands for additional control options.
 - **Customizable Gestures**: Allow users to set up custom gestures for different actions.
 
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-This project is licensed under the MIT License.
 

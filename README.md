@@ -46,11 +46,11 @@ This project is a **Virtual Mouse Interface** that allows users to control their
     ```
 2. **Perform Gestures**:
     - **Move Cursor**: Move your hand within the frame to control the cursor position.
-    - **Left Click**: (Explain the specific gesture used for left click)
-    - **Right Click**: (Explain the specific gesture used for right click)
-    - **Drag and Drop**: (Explain the gesture used for drag actions)
+    - **Left Click**: Use index and thumb finger to perform a left click
+    - **Right Click**: Use index and middle finger to perform a left click
+    - **Volume Up**: Point out 3 fingers to increase the volume
+    - **Drag and Drop**: Point out 4 fingers to decrease the volume
 
-*(Add any visual cues or diagrams if needed to explain gestures.)*
 
 ## Future Enhancements
 - **Enhanced Gesture Library**: Add more gestures for additional actions.

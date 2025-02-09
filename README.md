@@ -1,4 +1,4 @@
-## NeuroGest: Real-Time Gesture-Driven Virtual Mouse Interface Powered by Computer Vision and Machine Learning
+# GesturaVision - Advanced Touch-Free Virtual Mouse System 
 
 
 
@@ -31,11 +31,11 @@ This project is a **Virtual Mouse Interface** that allows users to control their
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/Deepu1004/NeuroGest.git
+    git clone https://github.com/Deepu1004/GesturaVision.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd NeuroGest
+    cd GesturaVision
     ```
 
 

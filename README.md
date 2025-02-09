@@ -31,11 +31,11 @@ This project is a **Virtual Mouse Interface** that allows users to control their
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/Deepu1004/Virtual_Mouse_Interface_Using_Hand_Gestures.git
+    git clone https://github.com/Deepu1004/NeuroGest.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd Virtual_Mouse_Interface_Using_Hand_Gestures
+    cd NeuroGest
     ```
 
 

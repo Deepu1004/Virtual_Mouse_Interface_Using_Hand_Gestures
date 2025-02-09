@@ -1,4 +1,4 @@
-# Virtual Mouse Interface Using Hand Gestures
+## NeuroGest: Real-Time Gesture-Driven Virtual Mouse Interface Powered by Computer Vision and Machine Learning
 
 
 
